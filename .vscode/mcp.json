@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-mcp-server": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/absolute/path/to/build/index.js"]
+    }
+  }
+}
